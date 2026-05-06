@@ -1,0 +1,56 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "HyperioniOS",
+    "printedName": "HyperioniOS",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HyperioniOS",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HyperioniOS"
+      },
+      {
+        "kind": "Import",
+        "name": "HyperionCore",
+        "printedName": "HyperionCore",
+        "declKind": "Import",
+        "moduleName": "HyperioniOS"
+      },
+      {
+        "kind": "Import",
+        "name": "AttributesInspector",
+        "printedName": "AttributesInspector",
+        "declKind": "Import",
+        "moduleName": "HyperioniOS"
+      },
+      {
+        "kind": "Import",
+        "name": "Measurements",
+        "printedName": "Measurements",
+        "declKind": "Import",
+        "moduleName": "HyperioniOS"
+      },
+      {
+        "kind": "Import",
+        "name": "SlowAnimations",
+        "printedName": "SlowAnimations",
+        "declKind": "Import",
+        "moduleName": "HyperioniOS"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
